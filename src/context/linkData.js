@@ -1,0 +1,27 @@
+export const linkData = [
+    {
+        id:1,
+        text:'Inicio',
+        path:'/'
+    },
+    {
+        id:2,
+        text:'Info',
+        path:'/info'
+    },
+    {
+        id:3,
+        text:'Productos',
+        path:'/productos'
+    },
+    {
+        id:4,
+        text:'contactos',
+        path:'/contactos'
+    },
+    {
+        id:5,
+        text:'Carrito',
+        path:'/carrito'
+    }
+]
